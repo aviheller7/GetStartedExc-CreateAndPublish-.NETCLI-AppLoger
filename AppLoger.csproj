@@ -19,6 +19,9 @@
 	<PackageReleaseNotes>First and (Hopfully) last release</PackageReleaseNotes>
 	<PackageTags>AppLoger;Loger;Hello World;</PackageTags>
 	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<RepositoryUrl>https://github.com/aviheller7/GetStartedExc-CreateAndPublish-.NETCLI-AppLoger.git</RepositoryUrl>
+	<RepositoryBranch>main</RepositoryBranch>
+	<RepositoryCommit>release commit for version 1.0.0</RepositoryCommit>
  </PropertyGroup>
 
 </Project>
