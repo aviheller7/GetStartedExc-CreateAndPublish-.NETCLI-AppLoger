@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NextSoft.AppLogger.Avi.Sample</id>
+    <version>1.0.0</version>
+    <title>log 'Hello World'</title>
+    <authors>Avi,Yehudit</authors>
+    <owners>Avi,Yehudit</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>a Very basic 'Hello World' progect,
+		suppose to be a sample and excersise for creating and publishing NuGet package</description>
+    <releaseNotes>First and (Hopfully) last release</releaseNotes>
+    <copyright>(C) All rights reserved to NextSoft Copartion</copyright>
+    <tags>AppLoger Loger Hello World</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\user\Documents\project\GetStartedExc\CreateAndPublish\.NETCLI\AppLoger\bin\Debug\netstandard2.0\AppLoger.dll" target="lib\netstandard2.0\AppLoger.dll" />
+  </files>
+</package>
